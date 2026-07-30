@@ -12,5 +12,5 @@ Curriculum is hosted in [this repository](https://github.com/ThePythonLedger/Cur
 ## Engine
 Docusaurus engine is hosted in [this repository](https://github.com/ThePythonLedger/Docusaurus-engine)
 
-## Github Pages
+## Live site
 [Live site](https://thepythonledger.github.io/Docusaurus-engine/) is currently hosted by GitHub Pages.
